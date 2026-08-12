@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 64" width="240" height="64" role="img" aria-label="Hacker House Goa"><title>Hacker House Goa</title><!-- Matchbox badge mark. All letterforms are geometry (rects/paths/polygons), never text, so the mark renders identically with no webfont available. Overlay shapes painted in the badge green (#1E4D2B) "cut" notches out of the cream letters. Carries no id attributes: this file is inlined in both the header and the footer, and duplicate ids break the accessible name. -->
+<rect x="0" y="0" width="240" height="64" rx="6" fill="#1E4D2B"/>
+<rect x="4" y="4" width="232" height="56" rx="4" fill="none" stroke="#E23B22" stroke-width="3"/>
+<rect x="9" y="9" width="222" height="46" rx="2" fill="none" stroke="#F2B705" stroke-width="1.5"/>
+<!-- left emblem: half sun behind a palm -->
+<g fill="#F2B705"><path d="M32 22a14 14 0 0 1 14 14H18a14 14 0 0 1 14-14z"/><rect x="18" y="38" width="28" height="3" rx="1.5"/><rect x="30" y="10" width="4" height="7" rx="2"/><rect x="17" y="14" width="4" height="7" rx="2" transform="rotate(-40 19 17)"/><rect x="43" y="14" width="4" height="7" rx="2" transform="rotate(40 45 17)"/></g>
+<!-- palm; the trunk stops at y=41, the bottom of the horizon bar, instead of running past it -->
+<g fill="#17130E"><path d="M31 24h2c1 0 1 1 1 2l-1 15h-3l1-15c0-1 0-2 0-2z"/><path d="M32 24c-5-5-11-6-15-3 4-1 9 0 12 4-4-1-9 1-11 4 4-3 9-3 12-1-3 1-6 4-6 8 2-5 6-8 8-8z"/><path d="M32 24c5-5 11-6 15-3-4-1-9 0-12 4 4-1 9 1 11 4-4-3-9-3-12-1 3 1 6 4 6 8-2-5-6-8-8-8z"/></g>
+<rect x="56" y="14" width="2" height="36" fill="#F2B705"/>
+<!-- HH monogram: 6-wide stems, 6-thick crossbar -->
+<g fill="#FFF3DC"><rect x="68" y="18" width="6" height="28"/><rect x="84" y="18" width="6" height="28"/><rect x="68" y="29" width="22" height="6"/><rect x="98" y="18" width="6" height="28"/><rect x="114" y="18" width="6" height="28"/><rect x="98" y="29" width="22" height="6"/></g>
+<!-- G: ring r14/r6 about (144,32). The green wedge opens the aperture along a RADIUS at ~51 deg,
+     so the arc carries over the apex and terminates at 1:30 with a full-width stroke end. -->
+<path d="M144 18a14 14 0 1 0 0 28 14 14 0 0 0 0-28zm0 8a6 6 0 1 1 0 12 6 6 0 0 1 0-12z" fill="#FFF3DC" fill-rule="evenodd"/>
+<polygon points="146.5,29 160,12.4 160,29" fill="#1E4D2B"/><rect x="144" y="29" width="14" height="6" fill="#FFF3DC"/>
+<!-- O -->
+<path d="M176 18a14 14 0 1 0 0 28 14 14 0 0 0 0-28zm0 8a6 6 0 1 1 0 12 6 6 0 0 1 0-12z" fill="#FFF3DC" fill-rule="evenodd"/>
+<!-- A: legs 6 wide to match the H stems, crossbar y35-41 (6 thick), counter apex (210,26.4) -->
+<path d="M197 46 L207 18 L213 18 L223 46 L217 46 L215.2 41 L204.8 41 L203 46 Z M206.9 35 L213.1 35 L210 26.4 Z" fill="#FFF3DC" fill-rule="evenodd"/>
+<rect x="14" y="52" width="212" height="2" fill="#E23B22"/>
+</svg>
